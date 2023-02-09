@@ -1,0 +1,36 @@
+@font-face{
+	font-family: 'montserrat';
+	src: url('fuentes/Montserrat-Regular.ttf') ;
+}
+@font-face{
+	font-family: 'montserrat-Bold';
+	src: url('/fuentes/Montserrat-Bold.ttf') ;
+}
+@font-face{
+	font-family: 'sourceSans';
+	src: url('fuentes/SourceSansPro-Regular.ttf') ;
+}
+
+
+
+:root{
+
+		font-family: 'sourceSans';
+	color:#343434;
+	}
+
+
+*{
+    margin: 0;
+	padding: 0;
+	
+	text-decoration: none;
+	border: none;
+	outline: none;
+    box-sizing: border-box;
+
+	}
+
+
+	
+	
